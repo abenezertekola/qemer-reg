@@ -62,7 +62,7 @@ export default function RootLayout({
             </div>
           </div>
           <div className="mt-8 text-center text-gray-500 text-sm">
-            © 2024 Qemer Software Technology PLC. All rights reserved.
+            © 2024 Qemer Software Technology PLC. All rights reserved.developed by abenezer
           </div>
         </footer>
       </body>
